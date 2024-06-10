@@ -1,0 +1,21 @@
+{
+    "videos": [
+      {
+        "_id": ObjectId("60a51d2c8b25dcb9e049d3a2"),
+        "filename": "video1.mp4",
+        "path": "/public/uploads/video1.mp4",
+        "user": "user123",
+        "likes": 10,
+        "createdAt": ISODate("2023-05-19T12:34:56.789Z")
+      },
+      {
+        "_id": ObjectId("60a51d5f8b25dcb9e049d3a3"),
+        "filename": "video2.mp4",
+        "path": "/public/uploads/video2.mp4",
+        "user": "user456",
+        "likes": 5,
+        "createdAt": ISODate("2023-05-20T08:45:23.456Z")
+      },
+    ]
+  }
+  
