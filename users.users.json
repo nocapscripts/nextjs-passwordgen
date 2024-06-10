@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6667753d87e7d19bc6cb6275"
   },
-  "email": "pals.sten@gmail.com",
+  "email": "",
   "password": "$2a$10$kXCY.J2.nuPPMG3XjG6DRuIoCos/hrSAC3va.RtHn28UH1oUFG3Cm",
   "__v": 0
 },
@@ -10,7 +10,7 @@
   "_id": {
     "$oid": "666775b187e7d19bc6cb6278"
   },
-  "email": "enamuskasutajad@gmail.com",
+  "email": "",
   "password": "$2a$10$YYmI2sOG6mONRB6QEd6Pwu32Y1qofd91DYFhYB5ZDMhKCSlv8p/9y",
   "__v": 0
 }]
